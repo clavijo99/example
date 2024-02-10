@@ -1,0 +1,7 @@
+Django==4.0.4
+gunicorn==19.9.0
+psycopg2==2.9.9
+dj_database_url
+django-jazzmin==2.6.0
+django-cors-headers==4.1.0
+Pillow==9.5.0
